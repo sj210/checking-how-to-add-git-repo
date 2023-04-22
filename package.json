@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sj210/checking-how-to-add-git-repo/issues"
   },
-  "homepage": "https://github.com/sj210/checking-how-to-add-git-repo#readme"
+  "homepage": "https://github.com/sj210/checking-how-to-add-git-repo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
